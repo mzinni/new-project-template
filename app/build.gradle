@@ -37,4 +37,5 @@ android {
 
 dependencies {
     provided 'com.google.android.things:androidthings:0.2-devpreview'
+    testCompile 'junit:junit:4.12'
 }
